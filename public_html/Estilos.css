@@ -6,10 +6,10 @@
     height: 150px;
     float: right;
     align: right;
-    position: static;
+    position: fixed;
     top:0px;
     margin: 0 0px 0px 0;
-    left: 1170px;
+    left: 85%;
     display: inline;
     
     
