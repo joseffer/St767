@@ -1,0 +1,34 @@
+p{
+    text-align: justify;
+}
+
+#logo{
+    
+    width: 180px;
+    height: 150px;
+    float: right;
+    position: relative;
+    top:0px;
+    margin: 0 0px 0px 0;
+    left: 85%;
+    display: block;
+    
+    
+    
+}
+
+html,body,h1,h2,h3,h4,h5 {
+		font-family: "Raleway", sans-serif
+	}
+
+	.w3-sidenav a,.w3-sidenav h4 {
+		font-weight:bold
+	}
+	
+	.mySlides {
+		display:none; width:800px; height:400px
+	}
+
+	body{
+		background-image:url(../novayork.jpg)
+	}
