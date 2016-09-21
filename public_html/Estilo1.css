@@ -1,5 +1,19 @@
+
+@import url(http://www.w3schools.com/lib/w3.css);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css);
+
+article{
+width: 750px;
+height: 600px;
+    
+    
+}
+
+
 p{
     text-align: justify;
+    text-indent: 15px
 }
 
 #logo{
