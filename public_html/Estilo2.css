@@ -1,0 +1,53 @@
+@import url(http://www.w3schools.com/lib/w3.css);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import 'https://fonts.googleapis.com/css?family=Amatic+SC';
+@import 'https://fonts.googleapis.com/css?family=Modak';
+
+p{
+    
+    text-align: justify;
+    text-indent: 15px;
+    margin-left: 10px;
+}
+
+article{
+width: 750px;
+height: 600px;
+margin: 15px;
+font-family: 'Amatic SC', cursive;
+font-size: 20px;
+    
+}
+
+
+
+#logo{
+    border-radius: 80%;
+    width: 180px;
+    height: 150px;
+    float: right;
+    position: fixed;
+    top:0px;
+    margin: 0 0px 0px 0;
+    left: 85%;
+    display: block;   
+}
+
+h1{
+    font-family: 'Modak', cursive;
+    
+}
+
+html,body,h2,h3,h4,h5 {
+		font-family: "Raleway", sans-serif
+	}
+
+	.w3-sidenav a,.w3-sidenav h4 {
+		font-weight:bold
+	}
+        
+        button{
+            border-radius: 50px 50px 50px;
+    
+    
+        }
