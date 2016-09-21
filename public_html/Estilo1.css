@@ -34,8 +34,9 @@ h1{
     font-weight: bolder;            
 }
 
-html,body,h2,h3,h4,h5 {
-		font-family: "Raleway", sans-serif
+html,body,h3,h4,h5 {
+		font-family: "Raleway", sans-serif;
+                
 	}
 
 	.w3-sidenav a,.w3-sidenav h4 {
