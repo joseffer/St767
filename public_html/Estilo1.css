@@ -7,7 +7,7 @@ p{
     width: 180px;
     height: 150px;
     float: right;
-    position: relative;
+    position: fixed;
     top:0px;
     margin: 0 0px 0px 0;
     left: 85%;
